@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Shrikhand&display=swap');
-/*# sourceMappingURL=stle.css.map */
+
 *,
 ::before,
 ::after{
@@ -10,14 +10,17 @@
 }
 
 body{
-    margin: 1px;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
 
 }
 
 
-.logo-shop img{
-width: 25rem;
+.logo-shop i{
+    font-size: 2.5rem;
+    margin-left: 2rem;
+    
+
 }
 
 header{
