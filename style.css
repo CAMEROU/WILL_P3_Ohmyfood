@@ -18,9 +18,8 @@ body{
 
 .logo-shop i{
     font-size: 2.5rem;
-    margin-left: 2rem;
-    
 
+    
 }
 
 header{
@@ -28,31 +27,26 @@ header{
     text-align: center;
     position: relative;
     box-shadow: 0 0 0.5rem rgb(165, 165, 161);
-    padding: 1.3rem;
+    padding: 1.8rem;
 }
 
 .location{
+
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     font-size: 1.8rem;
     background-color: #f3f3f3;
-    padding: 0.5rem;
-    gap: 0.5rem;
-    
-    
-}
-
-.bi-geo-alt-fill, i{
-    
-font-size: 0.9rem;
+    padding: 0.3rem;
+    gap: 2rem;  
 }
 
 #decouverte{
     text-align: center;
     font-size: 1rem;
 }
+
 h1{
     font-size: 1rem;
 }
