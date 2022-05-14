@@ -4,8 +4,7 @@
   "description": "this is a journal app package.json file",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "sass": "sass --watch style.scss style.css"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CAMEROU/WILL_P3_Ohmyfood/issues"
   },
-  "homepage": "https://github.com/CAMEROU/WILL_P3_Ohmyfood#readme"
+  "homepage": "https://github.com/CAMEROU/WILL_P3_Ohmyfood#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
 }

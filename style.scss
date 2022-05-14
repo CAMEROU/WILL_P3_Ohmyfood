@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Shrikhand&display=swap');
+/*# sourceMappingURL=stle.css.map */
+*,
+::before,
+::after{
+    box-sizing: border-box;
+    
+}
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.location .logo-shop i{
+font-size: 3rem;
+}
+
+
+
+header{
+    font-family: "Shrikhand", "cursive";
+    text-align: center;
+    position: relative;
+    box-shadow: 0 0 0.5rem rgb(165, 165, 161);
+    padding: 1rem;
+    
+}
+
+.resto h1{
+    font-size: 5rem;
+}
+
+.location{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 2rem;
+    background-color: #f3f3f3;
+    padding: 0.6rem;
+    gap: 2rem;
+    
+}
+.location h2{
+    font-size: 3rem;
+}
+
+/*decouverte*/
+
+#decouverte{
+text-align: center;
+}
+#decouverte h2{
+    font-size: 2.2rem;
+    margin-top: 3rem;
+}
+
+#decouverte p{
+    font-size:3.07rem;
+    }
+button{
+background-image: linear-gradient(#FF79DA, #9356DC);
+width: 40rem;
+height: 10rem;
+color: white;
+border-radius: 5rem;
+border: none;
+font-size: 1.2rem;
+align-items: center;
+justify-content: center;
+padding: 0.8rem;
+
+}
+
+button a {
+    font-size: 3rem;
+}
+div {
+    background-color: #FF79DA;
+}
+
+
